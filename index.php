@@ -25,7 +25,6 @@
 
     <!-- Page CSS -->
     <link href="css/index.css" rel="stylesheet">
-    <link href="fonts/font/font.css" rel="stylesheet">
     <link rel="icon" type="img/png" href="img/favicon.png" />
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
@@ -38,34 +37,34 @@
       <nav class="navbar navbar-inverse" role="navigation">
 
           <div class="navbar-header">
-             <a href="#top"><img alt="" src="img/LogoVinifyCo.png" style="height:45px" id="mf2"/></a>
+             <a href="#top"><img alt="" src="img/LogoVinifyINV.png" style="height:45px" id="mf2"/></a>
           </div>
 
-        <!--   <ul class="nav navbar-nav pull-right">
+          <ul class="nav navbar-nav pull-right">
               <li><a href="http://eepurl.com/Mgtcb" class="btn btn-primary btn-lg loginbtn">
                       <i class="fa fa-shopping-cart"></i> JE COMMANDE
                     </a></li>
               <li><a href="http://app.vinify.co" class="btn btn-primary btn-lg loginbtn" id=""><i class="fa fa-user"></i>  LOGIN</a></li>
-          </ul> -->
+          </ul>
       </nav>
 
-        <div class="headline col-lg-6 col-md-6 col-sm-6 col-xs-6">
+        <div class="headline col-lg-5 col-md-5 col-sm-6 col-xs-6">
             <div class="row">
-                <h2>Découvrez vos goûts en vin sans efforts</h2>
-                <h3>Notez des vins et recevez au rythme de votre consommation une sélection qui s'adapte à vos goûts</h3>
+                <h2>Découvrez vos goûts !</h2>
+                <h3>Notez des vins, et recevez au rythme de votre consommation une sélection qui s'adapte à vos goûts</h3>
             </div>
         </div>
 
         <div class="footline">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 landing-buttons">
-                  <a href="http://eepurl.com/Mgtcb" class="btn btn-primary btn-lg landing-btn-strong">
-                    <i class="fa fa-shopping-cart"></i> Je commande
+                  <a href="http://eepurl.com/Mgtcb" class="btn btn-primary btn-lg loginbtn">
+                    <i class="fa fa-shopping-cart"></i> JE COMMANDE
                   </a>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 landing-buttons">
-                  <a href="http://app.vinify.co" class="btn btn-primary btn-lg landing-btn" id="">
-                    <i class="fa fa-user"></i>  Login
+                  <a href="http://app.vinify.co" class="btn btn-primary btn-lg loginbtn" id="">
+                    <i class="fa fa-user"></i>  LOGIN
                   </a>
                 </div>
             </div>

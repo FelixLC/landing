@@ -1,5 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:800,400,300|Montserrat:700,400);
 
+
 body {
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 	font-weight: 300;
@@ -48,8 +49,8 @@ html, body {
 
 .btn-primary {
   color: #ffffff;
-  font-family: Montserrat;
-  font-size: 20px;
+  font-family: 'quicksandlight', Helvetica, Arial, sans-serif;
+  font-size: 18px;
   border-color: transparent;
 
 /*  padding-top: 16px;*/
@@ -165,8 +166,8 @@ color: #fff;
 }
 
 .headline h2 {
-	font-family: 'Open Sans';
-	color: #fff;
+	font-family: 'Montserrat';
+	color: #ffffff;
 	font-size: 30px;
 	font-weight: 400;
 	margin-top: 15px;
@@ -175,10 +176,10 @@ color: #fff;
 }
 
 .headline h3 {
-	font-family: 'Open Sans';
-	color: #ecf0f1;
-	font-size: 20px;
-	font-weight: 400;
+	font-family: 'quicksandlight', Helvetica, Arial, sans-serif;
+	color: #ffffff;
+	font-size: 22px;
+	font-weight: 300;
 	margin-top: 15px;
 	margin-bottom: 10px;
 	/*text-shadow: 0 2px 20px #000000;*/
@@ -207,6 +208,24 @@ color: #fff;
 
 }
 
+.landing-btn-strong {
+	color: #ffffff;
+	background-color: #3276b1;
+	border-color: #285e8e;
+	padding: 10px;
+	margin-right: 15px;
+	border-radius: 50px;
+}
+
+.landing-btn {
+	color: #ffffff;
+	background-color: transparent;
+	border-color: transparent;
+	border-width: 2px;
+	padding: 10px;
+	margin-right: 15px;
+	border-radius: 50px;
+}
 
 .header-image {
 			margin: 0;
@@ -214,7 +233,7 @@ color: #fff;
 			width: 100%;
 			background:
 
-			url(../img/background-vinibar.jpg) no-repeat center center fixed;
+			url(../img/background-vinibar-terrasse.jpg) no-repeat center center fixed;
             -webkit-background-size: cover;
             -moz-background-size: cover;
             -o-background-size: cover;
